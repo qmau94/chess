@@ -1,0 +1,10 @@
+nguoi1|abcd|Bach123|
+nguoi2|abcd|Quang|
+nguoi3|abcd|aloha|
+nguoi4|abcd|hehehe|
+nguoi5|abcd|lotteria|
+nguoi6|abcd|macdonanld|
+nguoi7|abcd|konnichiha|
+nguoi8|abcd|Toefl|
+nguoi9|abcd|Happy|
+nguoi10|abcd|oilve|
